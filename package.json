@@ -4,7 +4,7 @@
   "description": "Practice writing functions in JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --bail"
   },
   "repository": {
     "type": "git",
